@@ -13,6 +13,7 @@ rest-assured-all/dependency-reduced-pom.xml
 
 ### Eclipse ###
 .metadata
+.metadata/.log
 bin/
 tmp/
 *.tmp
